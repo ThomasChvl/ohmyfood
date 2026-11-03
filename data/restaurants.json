@@ -1,0 +1,348 @@
+[
+  {
+    "id": "la-palette-du-gout",
+    "slug": "la-palette-du-gout",
+    "name": "La palette du goût",
+    "neighborhood": "Ménilmontant",
+    "image": "/images/restaurants/lpdg.jpg",
+    "imageAlt": "La palette du goût",
+    "isNew": true,
+    "pageTitle": "Ohmyfood, Menu La palette du goût",
+    "menuImageAlt": "La palette du goût",
+    "menu": [
+      {
+        "id": "entrees",
+        "title": "ENTRÉES",
+        "items": [
+          {
+            "id": "item1",
+            "name": "Tartare de thon",
+            "description": "Assaisonné au yuzu",
+            "price": "25€"
+          },
+          {
+            "id": "item2",
+            "name": "Bouchée de homard croustillant",
+            "description": "Et sa farandole de petits légumes",
+            "price": "35€"
+          },
+          {
+            "id": "item3",
+            "name": "Poulet rôti aux herbes de Provence",
+            "description": "Et sa crème de truffe",
+            "price": "40€"
+          }
+        ]
+      },
+      {
+        "id": "plats",
+        "title": "PLATS",
+        "items": [
+          {
+            "id": "item4",
+            "name": "Poulet rôti aux herbes de Provence",
+            "description": "Et sa crème de truffe",
+            "price": "40€"
+          },
+          {
+            "id": "item5",
+            "name": "Langouste rôtie",
+            "description": "Et ses légumes de saison",
+            "price": "35€"
+          },
+          {
+            "id": "item6",
+            "name": "Côte de bœuf Angus",
+            "description": "Et sa purée de panais",
+            "price": "44€"
+          }
+        ]
+      },
+      {
+        "id": "desserts",
+        "title": "DESSERTS",
+        "items": [
+          {
+            "id": "item7",
+            "name": "Farandole de desserts",
+            "description": "Du chef",
+            "price": "18€"
+          },
+          {
+            "id": "item8",
+            "name": "Crème brulée",
+            "description": "Revisitée",
+            "price": "22€"
+          },
+          {
+            "id": "item9",
+            "name": "Tiramisu",
+            "description": "À la noisette",
+            "price": "23€"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-note-enchantee",
+    "slug": "la-note-enchantee",
+    "name": "La note enchantée",
+    "neighborhood": "Charonne",
+    "image": "/images/restaurants/lne.jpg",
+    "imageAlt": "La note enchantée",
+    "isNew": true,
+    "pageTitle": "Ohmyfood Menu La note enchantée",
+    "menuImageAlt": "La note enchantée",
+    "menu": [
+      {
+        "id": "entrees",
+        "title": "ENTRÉES",
+        "items": [
+          {
+            "id": "item1",
+            "name": "Ravioles de foie gras",
+            "description": "Accompagnées de leur crème à la truffe",
+            "price": "25€"
+          },
+          {
+            "id": "item2",
+            "name": "Caviar osciètre",
+            "description": "Sur blini à la farine de blé noir",
+            "price": "35€"
+          },
+          {
+            "id": "item3",
+            "name": "Homard et espuma de potiron",
+            "description": "Marinés aux zestes d'orange",
+            "price": "20€"
+          },
+          {
+            "id": "item4",
+            "name": "Foie gras de canard cuit entier",
+            "description": "Confiture de figue et pain toasté",
+            "price": "35€"
+          }
+        ]
+      },
+      {
+        "id": "plats",
+        "title": "PLATS",
+        "items": [
+          {
+            "id": "item5",
+            "name": "Noix de coquilles Saint-Jacques",
+            "description": "Sur lit de purée de céleri-rave",
+            "price": "40€"
+          },
+          {
+            "id": "item6",
+            "name": "Langouste poêlée",
+            "description": "Purée de patate douce",
+            "price": "35€"
+          },
+          {
+            "id": "item7",
+            "name": "Mijoté de queue de bœuf",
+            "description": "Et riz sauvage aux zestes de citron",
+            "price": "45€"
+          }
+        ]
+      },
+      {
+        "id": "desserts",
+        "title": "DESSERTS",
+        "items": [
+          {
+            "id": "item8",
+            "name": "Macaron noisette et chocolat",
+            "description": "Glace au caramel brun et sel de Guérande",
+            "price": "18€"
+          },
+          {
+            "id": "item9",
+            "name": "Baba au rhum revisité",
+            "description": "Avec son coulis de citron",
+            "price": "22€"
+          },
+          {
+            "id": "item10",
+            "name": "Tarte au citron meringuée",
+            "description": "Déstructurée",
+            "price": "23€"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-la-francaise",
+    "slug": "a-la-francaise",
+    "name": "À la française",
+    "neighborhood": "Cité Rouge",
+    "image": "/images/restaurants/alf.jpg",
+    "imageAlt": "A la française",
+    "isNew": false,
+    "pageTitle": "Ohmyfood Menu À la française",
+    "menuImageAlt": "La palette du goût",
+    "menu": [
+      {
+        "id": "entrees",
+        "title": "ENTRÉES",
+        "items": [
+          {
+            "id": "item1",
+            "name": "Tartare de poulpe acidulé",
+            "description": "Aux zestes d'orange",
+            "price": "25€"
+          },
+          {
+            "id": "item2",
+            "name": "Velouté de légumes d'antan",
+            "description": "Carotte, panais, topinambour",
+            "price": "35€"
+          },
+          {
+            "id": "item3",
+            "name": "Soupe à l'oignon",
+            "description": "Revisitée",
+            "price": "20€"
+          }
+        ]
+      },
+      {
+        "id": "plats",
+        "title": "PLATS",
+        "items": [
+          {
+            "id": "item4",
+            "name": "Coquilles Saint-Jacques",
+            "description": "Accompagnées d'une purée de panais",
+            "price": "40€"
+          },
+          {
+            "id": "item5",
+            "name": "Magret de canard",
+            "description": "Et parmentier de pommes de terre",
+            "price": "35€"
+          },
+          {
+            "id": "item6",
+            "name": "Pigeonneau d'Ille-et-Vilaine",
+            "description": "Sur son lit de gnocchis aux légumes",
+            "price": "44€"
+          }
+        ]
+      },
+      {
+        "id": "desserts",
+        "title": "DESSERTS",
+        "items": [
+          {
+            "id": "item7",
+            "name": "Pétales de violettes glacés",
+            "description": "Et purée de noisettes",
+            "price": "18€"
+          },
+          {
+            "id": "item8",
+            "name": "Fondant au chocolat",
+            "description": "Revisitée",
+            "price": "22€"
+          },
+          {
+            "id": "item9",
+            "name": "Millefeuille croustillant",
+            "description": "Myrtilles et pâte d’amande",
+            "price": "23€"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "le-delices-des-sens",
+    "slug": "le-delices-des-sens",
+    "name": "Le délices des sens",
+    "neighborhood": "Folie-Méricourt",
+    "image": "/images/restaurants/ldds.jpg",
+    "imageAlt": "Le délices des sens",
+    "isNew": false,
+    "pageTitle": "Ohmyfood Menu Le délices des sens",
+    "menuImageAlt": "La délices des sens",
+    "menu": [
+      {
+        "id": "entrees",
+        "title": "ENTRÉES",
+        "items": [
+          {
+            "id": "item1",
+            "name": "Tartare de thon",
+            "description": "Assaisonné au yuzu",
+            "price": "25€"
+          },
+          {
+            "id": "item2",
+            "name": "Bouchée de homard croustillant",
+            "description": "Et sa farandole de petits légumes",
+            "price": "35€"
+          },
+          {
+            "id": "item3",
+            "name": "Poulet rôti aux herbes de Provence",
+            "description": "Et sa crème de truffe",
+            "price": "40€"
+          }
+        ]
+      },
+      {
+        "id": "plats",
+        "title": "PLATS",
+        "items": [
+          {
+            "id": "item4",
+            "name": "Poulet rôti aux herbes de Provence",
+            "description": "Et sa crème de truffe",
+            "price": "40€"
+          },
+          {
+            "id": "item5",
+            "name": "Langouste rôtie",
+            "description": "Et ses légumes de saison",
+            "price": "35€"
+          },
+          {
+            "id": "item6",
+            "name": "Côte de bœuf Angus",
+            "description": "Et sa purée de panais",
+            "price": "44€"
+          }
+        ]
+      },
+      {
+        "id": "desserts",
+        "title": "DESSERTS",
+        "items": [
+          {
+            "id": "item7",
+            "name": "Farandole de desserts",
+            "description": "Du chef",
+            "price": "18€"
+          },
+          {
+            "id": "item8",
+            "name": "Crème brulée",
+            "description": "Revisitée",
+            "price": "22€"
+          },
+          {
+            "id": "item9",
+            "name": "Tiramisu",
+            "description": "À la noisette",
+            "price": "23€"
+          }
+        ]
+      }
+    ]
+  }
+]
